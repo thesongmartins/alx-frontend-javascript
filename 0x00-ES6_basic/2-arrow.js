@@ -1,7 +1,3 @@
-/**
- * Represents a list of neighborhoods in San Francisco.
- * @constructor
- */
 export default function getNeighborhoodsList() {
     // Initialize the list of neighborhoods
     this.sanFranciscoNeighborhoods = ['SOMA', 'Union Square'];
