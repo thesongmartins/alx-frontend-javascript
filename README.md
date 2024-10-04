@@ -1,1 +1,1 @@
-alx Frontend Javascript
+alx Frontend Javascript Specialization
