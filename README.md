@@ -1,1 +1,1 @@
-Frontend specialization on alx.cat
+Frontend specialization on alx.
