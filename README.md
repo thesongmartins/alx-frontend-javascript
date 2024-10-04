@@ -1,1 +1,1 @@
-alx Frontend Javascript Specialization
+Frontend specialization on alx.cat
